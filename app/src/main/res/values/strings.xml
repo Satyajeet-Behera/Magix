@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MAGIX</string>
+    <string name="accessibility_service_description">MAGIX Autonomous Interaction Engine allows MAGIX to perceive on-screen controls, perform authorized navigation, tap, scroll, and execute coordinated multi-step tasks on your behalf with full user control and emergency cancellation.</string>
+</resources>

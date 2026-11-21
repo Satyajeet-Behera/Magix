@@ -1,0 +1,6 @@
+{
+  "name": "MAGIX",
+  "description": "JARVIS-style personal AI assistant for Android with core intelligence, automations, memory, and voice system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
